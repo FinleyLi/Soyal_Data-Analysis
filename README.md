@@ -34,7 +34,7 @@ clone HTTPS
 
 select file
 ```
-	cd /github/109.../
+	cd /github/Soyal_Data-Analysis/
 	git add README.md
 	git commit -m 'add git use clone and push'
 	git push
