@@ -34,7 +34,7 @@ virtualenv venv01
 
 ## Step 3. active
 
-####activate
+### activate
 
 source ./venv01/bin/activate
 
